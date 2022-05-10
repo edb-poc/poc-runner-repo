@@ -20,4 +20,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: sleep 3m #while true; do /bin/true; done
+        run: sleep 13m #while true; do /bin/true; done

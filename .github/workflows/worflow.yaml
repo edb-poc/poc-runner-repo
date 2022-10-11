@@ -20,4 +20,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a container
-        run: docker run --name test-container debian bash uname -n
+        run: docker run --name test-container1 debian uname -m
